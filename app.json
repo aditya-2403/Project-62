@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "School Attendance",
+    "icon": "./assets/student.png",
+    "version": "1.0.0",
+    "slug": "your-app-slug",
+    "ios": {
+      "bundleIdentifier": "ml.adityaprasad.schoolattendance",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "ml.adityaprasad.schoolattendance",
+      "versionCode": 1
+    }
+  }
+}
